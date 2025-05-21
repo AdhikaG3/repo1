@@ -1,1 +1,2 @@
-my first commit in github
+my first commit in GitHub
+commiting changes
